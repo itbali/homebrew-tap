@@ -3,7 +3,9 @@
 Пакеты Homebrew для приложений [itbali](https://github.com/itbali).
 
 ```bash
-brew install --cask itbali/tap/raskladushka
+brew tap itbali/tap
+brew trust itbali/tap        # один раз: Homebrew не ставит пакеты из сторонних репозиториев без подтверждения
+brew install --cask raskladushka
 ```
 
 | Пакет | Что это |
