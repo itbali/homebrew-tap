@@ -1,6 +1,6 @@
 cask "raskladushka" do
-  version "1.2.0"
-  sha256 "9b16dfab1ac17aef79801775e92f607fff8ccc55361db819af140783de5e8da0"
+  version "1.3.0"
+  sha256 "ddc1e0c7647f4022a43743adef9c4f6ff001a3d6c6d70d4f38ae47f0696b3e6a"
 
   url "https://github.com/itbali/raskladushka/releases/download/v#{version}/Raskladushka-#{version}.dmg"
   name "Raskladushka"
